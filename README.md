@@ -12,7 +12,7 @@ This project is a simple RAM Memory Simulator implemented in Python. It allows t
 1. **Clone the Repository::**
    ```bash
    git clone https://github.com/Murilo056/ram-memory-simulator.git
-   cd nome-do-repositorio
+   cd ram-memory-simulator
 
 2. **Follow the Instructions::
 
